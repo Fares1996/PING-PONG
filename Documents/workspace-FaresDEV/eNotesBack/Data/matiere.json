@@ -1,0 +1,15 @@
+{
+  "nom": "projetDLL",
+  "idEtudiant":"5f8e0188c537ce0b0e0a39d0",
+  "ineEtudiant": "124",
+  "idProf": "5f8e024cc537ce0b0e0a39d3",
+  "ineProf": "024",
+  "idFiliere": "5f8e0343008e2e137aa92192",
+  "nomFiliere": "M2MIAGE",
+  "hasDs": false,
+  "noteDs": null,
+  "coef": null,
+  "coefDs": 1,
+  "coefPartiel":2,
+  "notePartiel": null
+  }
