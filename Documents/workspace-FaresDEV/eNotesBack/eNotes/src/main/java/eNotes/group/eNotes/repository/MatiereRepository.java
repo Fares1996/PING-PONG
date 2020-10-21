@@ -10,9 +10,6 @@ import java.util.List;
 public interface MatiereRepository  extends MongoRepository<Matiere,String> {
     Matiere findMatiereById (String id);
     Matiere findMatiereByNom (String nom);
-    List<Matiere> findAll();
-
-    void deleteMatiereById(String id);
 
     List<Matiere> findMatiereByIdEtudiant(String idEtudiant);
     List<Matiere> findMatiereByIneEtudiant(String ineEtudiant);
