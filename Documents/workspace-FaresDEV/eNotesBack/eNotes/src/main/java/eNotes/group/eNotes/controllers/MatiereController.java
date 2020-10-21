@@ -65,9 +65,10 @@ public class MatiereController {
 
 
     @GetMapping("/note")
-    public double getBynote(@RequestBody Matiere matire) {
-        return matire.calculNotes();
+    public double getBynote(@RequestBody Matiere matiere) {
+        return matiere.calculNotes();
     }
+
 
 
 }
